@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "0.21.0",
+    "gemini-function-calling-workshop-solved": "file:",
     "next": "15.0.2",
     "react": "18.3.1",
     "react-dom": "18.3.1",
